@@ -13,6 +13,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases)
+- [DB isolation levels] (https://www.youtube.com/watch?v=SnDJ7MPmu84)
 - [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)

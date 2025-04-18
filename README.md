@@ -17,7 +17,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
-- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c) (https://www.youtube.com/watch?v=IujMVjKvWP4)
+- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c) (https://www.youtube.com/watch?v=IujMVjKvWP4) [Leader election + log replication]
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
